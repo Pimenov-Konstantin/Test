@@ -1,4 +1,4 @@
-﻿int rows = 1; //тут у нас массив m 3x4.
+﻿int rows = 1; //тут у нас массив m 1x2
 int colums = 2;
 int[,] array = new int[rows, colums];
 
